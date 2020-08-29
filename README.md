@@ -19,6 +19,6 @@
 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Discord,  Kyraz#5243
-
+ <!--START_SECTION:activity-->
 
 
