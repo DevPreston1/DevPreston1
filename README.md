@@ -19,13 +19,16 @@
 
 - 💬 Ask me about Anything 
 - 📫 How to reach me: Discord,  Kyraz#5243
-### :zap: Recent Activity
+<details>
+  <summary>:zap: Recent Github Activity</summary>
  <!--START_SECTION:activity-->
+
  
  
  
  
  
- <!--END_SECTION:activity-->
+ 
+
 
 
