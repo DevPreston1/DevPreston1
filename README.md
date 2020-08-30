@@ -1,7 +1,7 @@
 ### Spotify Playing 🎧
 
 [<img src="https://spotify-now-playing-wheat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
-(https://open.spotify.com/user/8opxw5rk2rbd4p04t1n60uu77?si=5IMPnmx6Tz2XG4Y6kYrWOA)
+
 
 
 ### Hi there 👋 I Am Preston Arnold
