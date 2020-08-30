@@ -1,6 +1,6 @@
-### Spotify Playing 🎧
 
-[<img src="https://spotify-now-playing-wheat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />]
+
+
 
 
 
